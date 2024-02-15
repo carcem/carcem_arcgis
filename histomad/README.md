@@ -1,4 +1,4 @@
-Los datos en esta carpeta se han descargado de [Histomad]([https://sites.google.com/site/histomadtig/home](https://web.archive.org/web/20210415132926/https://sites.google.com/site/histomadtig/home)).
+Los datos en esta carpeta se han descargado de [Histomad](https://web.archive.org/web/20210415132926/https://sites.google.com/site/histomadtig/home).
 
 Los datos se descargaron el 9 de junio de 2022.
 
